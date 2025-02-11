@@ -26,6 +26,8 @@ typedef complex<double> dcomp;
 //----------------------------------------------------------------------------------//
 //----------------------------------------------------------------------------------//
 
+// Singular GPE solution: Black/White Hole
+
 int main()
 {
     double bc_l,bc_r,d_bc_r,F_diff,F_diff2,series_left,series_right,flag,ode,ode2;
