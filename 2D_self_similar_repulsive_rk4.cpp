@@ -39,7 +39,7 @@ void RK4(double v0, double rho0, double drho0, double h);
 // Data     : 19/11/2022
 // --------------------------End of CITATION---------------------------------//
 
-
+// 2d self-similar GPE singular solution RK4: White hole (No Black Hole)
     
 int main()
 {
